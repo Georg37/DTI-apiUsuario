@@ -5,8 +5,8 @@
 	"main": "server.js",
 	"author": "Rai Rodrigues",
 	"dependencies": {
+		"body-parser": "^1.19.0",
 		"express": "*",
-		"body-parser": "*",
 		"fs": "0.0.1-security"
 	}
 }

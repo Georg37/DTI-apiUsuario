@@ -1,0 +1,19 @@
+{
+	"usuarios": [
+		{
+			"nome": "Primeiro usuario",
+			"site": "www.primeirousuario.com.br",
+			"usuario_id": 1
+		},
+		{
+			"nome": "Segundo usuario",
+			"site": "www.primeirousuario.com.br",
+			"usuario_id": 2
+		},
+		{
+			"nome": "Terceiro usuario",
+			"site": "www.primeirousuario.com.br",
+			"usuario_id": 3
+		}
+	]
+}
